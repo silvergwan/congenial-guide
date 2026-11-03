@@ -63,7 +63,7 @@ async function prepare() {
   await writeFile(path.join(runtime,'messages.json'),JSON.stringify(messages,null,2),'utf8');
   await writeFile(path.join(runtime,'ledger.json'),JSON.stringify(ledger,null,2),'utf8');
   const rows = prospects.map(p=>`| ${p.id} | ${p.name} | ${p.email} | ${p.region} | [출처](${p.sourceUrl}) | ${p.notes || '—'} |`).join('\n');
-  await writeFile(path.join(root,'발송준비.md'),`# 제주 독채 숙소 조사 · 1차 20곳\n\n발신자: ${campaign.sender.name} <${campaign.sender.email}>\n\n비교 기간: ${campaign.period} / ${campaign.baseline}\n\n상태: 개별 메일 파일 20통 준비. 실제 발송 여부는 runtime/ledger.json을 확인합니다.\n\n공개 웹에 게시된 숙소별 주소이며 수신 가능 여부, 현재 영업 상태, 파인호스트 이용 여부는 확인되지 않았습니다. 공식 사이트·공식 채널 외에 숙소별 소개 페이지를 사용한 후보도 있습니다. 동일 이메일과 확인된 운영자 식별자는 중복 제거했습니다. 서로 다른 주소를 쓰는 동일 운영자까지 모두 식별했다는 뜻은 아닙니다.\n\n| 번호 | 숙소 | 이메일 | 지역 | 근거 | 참고 |\n|---|---|---|---|---|---|\n${rows}\n\n## 발송 본문 예시\n\n제목: ${messages[0].subject}\n\n${messages[0].body}\n`,'utf8');
+  await writeFile(path.join(root,'발송준비.md'),`# 제주 독채 숙소 조사 · 1차 20곳\n\n발신자: ${campaign.sender.name} <${campaign.sender.email}>\n\n비교 기간: ${campaign.period} / ${campaign.baseline}\n\n상태: 개별 메일 파일 20통 준비. 실제 발송 여부는 runtime/ledger.json을 확인합니다.\n\n공개 웹에 게시된 숙소별 주소이며 수신 가능 여부, 현재 영업 상태, Vacatio Solution PMS(구 파인호스트) 이용 여부는 확인되지 않았습니다. 공식 사이트·공식 채널 외에 숙소별 소개 페이지를 사용한 후보도 있습니다. 동일 이메일과 확인된 운영자 식별자는 중복 제거했습니다. 서로 다른 주소를 쓰는 동일 운영자까지 모두 식별했다는 뜻은 아닙니다.\n\n| 번호 | 숙소 | 이메일 | 지역 | 근거 | 참고 |\n|---|---|---|---|---|---|\n${rows}\n\n## 발송 본문 예시\n\n제목: ${messages[0].subject}\n\n${messages[0].body}\n`,'utf8');
   console.log(JSON.stringify({prepared:messages.length,sent:ledger.records.filter(r=>r.status==='sent').length,sender:campaign.sender.email,output:runtime},null,2));
 }
 

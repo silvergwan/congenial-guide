@@ -4,8 +4,8 @@
 
 | 후보 | 확인된 사이트·채널 | 사실 및 미확인 사항 | 판단 |
 |---|---|---|---|
-| 주월담 | [예약 사이트](https://juwoldam.finestay.ai/), [FineHost 안내](https://finehost.ai/webpage/6683a44a0d423d8123c00f5d), [사이트 연결 카카오](https://pf.kakao.com/_xoMxkIxj) | 나란한 독채 3동, 기준 2명·최대 3명. 비대면 체크인·외부 CCTV 안내. 페이지별 전화 불일치, 안내된 Instagram 열람 불가. 이메일 미확인 | 핵심 후보. 현재 공식 채널과 조사 수신 이메일부터 확인 |
-| 콘스트호텔 협재 | [ONDA 숙소 사이트·사업자 정보](https://site.onda.me/콘스트호텔-협재-138097/contact), [FineHost 안내](https://finehost.ai/webpage/677f7df1596ec716e10b769a) | 호텔 객실 운영. 사업자 정보 공개. 야간 인력·대응 범위와 1인 고객 경험 미확인. 이메일 미확인 | 호텔 비교 후보. 독채와 별도 집계 |
+| 주월담 | [예약 사이트](https://juwoldam.finestay.ai/), [숙소 안내(기존 finehost.ai)](https://finehost.ai/webpage/6683a44a0d423d8123c00f5d), [사이트 연결 카카오](https://pf.kakao.com/_xoMxkIxj) | 나란한 독채 3동, 기준 2명·최대 3명. 비대면 체크인·외부 CCTV 안내. 페이지별 전화 불일치, 안내된 Instagram 열람 불가. 이메일 미확인 | 핵심 후보. 현재 공식 채널과 조사 수신 이메일부터 확인 |
+| 콘스트호텔 협재 | [ONDA 숙소 사이트·사업자 정보](https://site.onda.me/콘스트호텔-협재-138097/contact), [숙소 안내(기존 finehost.ai)](https://finehost.ai/webpage/677f7df1596ec716e10b769a) | 호텔 객실 운영. 사업자 정보 공개. 야간 인력·대응 범위와 1인 고객 경험 미확인. 이메일 미확인 | 호텔 비교 후보. 독채와 별도 집계 |
 | 스너글 | [공식 Instagram](https://www.instagram.com/snuggle_jeju/), [프로필 연결 예약 사이트](https://snuggle.finestay.ai/), [제주관광공사 소개](https://www.visitjeju.net/kareumstay/villages/placeDetail/203) | 기준 2명·최대 3명. 공식 프로필에서 2인 여행 중심으로 소개. 1인 금지나 혼행 특화의 증거는 없음. 이메일 미확인 | 조건부. 실제 1인 투숙 경험 확인 |
 | 영감기록 | [숙소 페이지](https://finestays.com/accommo/6683a44a0d423d8123c00f51), [영감기록101 페이지](https://finestays.com/lodgment/637f08e55dc6b30a37dbe4e1) | 동일 주소에 명칭 변형. 기준 2명·최대 4명. 독립 공식 사이트·SNS와 이메일 미확인 | 현재 운영 채널·단지 내 구조 확인 후 선정 |
 | 고내다운 | [숙소 페이지](https://finestays.com/accommo/6683a44a0d423d8123c01042), [보조 지도 자료](https://kmh.purpleo.kr/article/32998) | 소규모 객실 여러 개. 보조 자료에 같은 주소·전화로 오프더애월도 표시. 과거 SNS 열람 불가. 이메일 미확인 | 현재 상호·운영자 확인 전 보류 |
