@@ -1,0 +1,15 @@
+{
+  "name": "jeju-wellbeing-check-research",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "제주 여행 안부 확인 개인 PO 프로젝트: 조사 문서와 메일 준비 도구",
+  "scripts": {
+    "test": "node --test tools/mail-prep/bot.test.mjs",
+    "mail:prepare": "node tools/mail-prep/bot.mjs prepare",
+    "mail:status": "node tools/mail-prep/bot.mjs status"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

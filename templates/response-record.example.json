@@ -1,0 +1,26 @@
+{
+  "synthetic": true,
+  "responseId": "DEMO-R001",
+  "questionVersion": "v0.2",
+  "receivedAt": null,
+  "propertyType": "unknown",
+  "soloAllowed": "unknown",
+  "soloExperience": "unknown",
+  "bookingTrend": {
+    "overall": "not_answered",
+    "solo": "not_answered",
+    "period": null,
+    "basis": "unknown"
+  },
+  "safetyInquiry": "not_answered",
+  "safetyCancellation": {
+    "status": "not_answered",
+    "evidenceType": "unknown"
+  },
+  "currentWorkflow": null,
+  "burden": null,
+  "followupPermission": "unknown",
+  "sourceReference": null,
+  "reviewStatus": "not_reviewed",
+  "analystNotes": []
+}

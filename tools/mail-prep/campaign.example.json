@@ -1,0 +1,14 @@
+{
+  "id": "DEMO-JEJU",
+  "title": "가상 숙소 메일 준비 예시",
+  "sender": {
+    "name": "프로젝트 연구자",
+    "email": "researcher@example.invalid"
+  },
+  "limit": 1,
+  "period": "2026년 9~10월",
+  "baseline": "2025년 9~10월",
+  "timezone": "Asia/Seoul",
+  "automaticFollowup": false,
+  "notes": "가상 예시. 실제 발송하지 않는다."
+}

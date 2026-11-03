@@ -1,0 +1,14 @@
+# Local research records and credentials
+.private/
+.env
+.env.*
+!.env.example
+**/runtime/
+**/inbox/
+**/test-output/
+tools/mail-prep/campaign.json
+tools/mail-prep/prospects.json
+tools/mail-prep/발송준비.md
+node_modules/
+.DS_Store
+Thumbs.db

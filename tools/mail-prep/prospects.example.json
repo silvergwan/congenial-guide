@@ -1,0 +1,14 @@
+[
+  {
+    "id": "J001",
+    "name": "가상 제주 숙소",
+    "email": "host@example.invalid",
+    "region": "가상 지역",
+    "propertyType": "가상 독채",
+    "operatorKey": "demo-operator-001",
+    "status": "ready",
+    "sourceUrl": "https://example.invalid/demo-only",
+    "evidence": "가상 테스트 데이터. 실제 출처 확인 대상이 아님",
+    "notes": "가상 후보이며 실제 연락 금지"
+  }
+]
